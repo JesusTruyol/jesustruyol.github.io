@@ -54,6 +54,7 @@ span{
     float: left;
 }
 .description p{
+    width: 99%;
     text-align: right;
 }
 
@@ -81,9 +82,9 @@ span{
     width: 95%;
 }
 
-.ref-proyect, .ref-web{
+/* .ref-proyect, .ref-web{
     text-align: left;
-}
+} */
 
 /* Footer */
 
